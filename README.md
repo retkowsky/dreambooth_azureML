@@ -25,7 +25,7 @@ In this solution framework, you will:
 <a href="Finetuning dreambooth with Azure ML.ipynb"> </a>
 
 ## Some training images
-<img src="trainimages.jpg">
+<img src="trainingimages.jpg">
 
 ## Some artificial images generated
 <img src="img1.jpg">
