@@ -38,5 +38,5 @@ In this solution framework, you will:
 <img src="img4.jpg">
 
 
-Created: 13-June-2023
+Created: 13-June-2023<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
