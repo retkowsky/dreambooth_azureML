@@ -28,6 +28,9 @@ In this solution framework, you will:
 ## Some training images
 <img src="trainingimages.jpg">
 
+## Processed training images (with background removal)
+<img src="trainingimagesnobg.jpg">
+
 ## Some artificial images generated
 <img src="img1.jpg">
 <img src="img2.jpg">
