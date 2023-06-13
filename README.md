@@ -23,7 +23,7 @@ In this solution framework, you will:
 - Generate new images of your chosen subject in diverse scenes.
 
 ## Notebook
-<a href="Finetuning dreambooth with Azure ML.ipynb"> </a>
+<a href="Finetuning dreambooth with Azure ML.ipynb"> Python notebook </a>
 
 ## Some training images
 <img src="trainingimages.jpg">
